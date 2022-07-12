@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>AppIcon.icns</file>
+        <file>icon/aqua.gif</file>
+        <file>icon/groundTest.png</file>
+        <file>icon/backGround.png</file>
+        <file>icon/bullet.png</file>
+        <file>icon/Untitled 07-05-2022 04-14-17.gif</file>
+        <file>icon/Untitled 07-05-2022 04-14-17.png</file>
+        <file>icon/fireWorks.gif</file>
+        <file>icon/clouds.gif</file>
+        <file>icon/FreeMode.png</file>
+        <file>icon/ScollMode.png</file>
+        <file>icon/startButton.png</file>
+        <file>icon/End.png</file>
+        <file>icon/Ending.png</file>
+        <file>icon/background (1).png</file>
+        <file>icon/aqua_character.gif</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>icon/land-Grass.png</file>
+        <file>icon/land.png</file>
+        <file>icon/m_Untitled 07-05-2022 04-14-17.png</file>
+        <file>icon/Grass.png</file>
+        <file>icon/River_side_r.png</file>
+        <file>icon/Water.png</file>
+        <file>icon/grass_edge.png</file>
+        <file>icon/start_button_pressed.png</file>
+        <file>icon/start_button.png</file>
+        <file>icon/GameOver.png</file>
+        <file>icon/getReady.png</file>
+        <file>icon/Elf_Copter.png</file>
+        <file>icon/Title.png</file>
+    </qresource>
+</RCC>
